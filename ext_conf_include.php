@@ -2,7 +2,7 @@
 /***************************************************************
  * Copyright notice
  *
- * (c) 2009-2011 by Manuel Selbach
+ * (c) 2009-2015 by Manuel Selbach
  *
  * All rights reserved
  *
