@@ -9,7 +9,7 @@ Currently added services:
 
 # Installation and configuration
 
-First of all you need a working caretaker server and one or more connected TYPO3 instance/s.
+First of all you need a working caretaker server and one or more connected TYPO3 instance/s. To use the clear cache service you also must have a working installation of coreapi. (links below to the projects and the documentations)
 
 If available, just install the extension on the typically way on the servers (caretaker server and the remote TYPO3 installation/s).
 
@@ -21,12 +21,12 @@ Now select which type of cache you would like to clear under "Test Configuration
 
 Thats all, hope you enjoy it!
 
-  
+    
 ### Feel free to implement more services!
 
-  
-  
-  
+    
+    
+    
 
 Dependencies:
 
@@ -45,6 +45,15 @@ For the remote server:
 
 # Thanks
 
-Many thanks to the guys who implemented the caretaker extension!
+Many thanks to the guys who implemented the caretaker and the coreapi extension!
 
 [caretaker project](http://www.typo3-caretaker.org)
+
+[coreapi project](https://forge.typo3.org/projects/extension-coreapi)
+
+    
+    
+
+[caretaker documentation](http://docs.typo3.org/typo3cms/extensions/caretaker/)
+
+[coreapi documentation](http://docs.typo3.org/typo3cms/extensions/coreapi/)
